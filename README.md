@@ -22,6 +22,7 @@ STEP-BY-STEP SOLUTION:
 3. Download the image. (Right-click the image and "Save As..." on the webpage or hover over its line in the code and press on the source to download it from there).
 <img width="415" alt="image" src="https://github.com/user-attachments/assets/3f7bb2ca-1d19-4b54-a91f-8d04222503a8">
 <img width="485" alt="image" src="https://github.com/user-attachments/assets/a262ea90-81ff-4a4d-a6e4-cb98fe0036e8">
+<br>
 5. Enter the image into any online decoder.
    <br>
 6. The text result is in base64, enter the text into any online decoder.
