@@ -32,7 +32,7 @@ button {
 section {
   font-family: Garamond, serif;
   color: #04aa6d;
-  text-align: center;
+  margin: auto auto;
 }
 
 img {
