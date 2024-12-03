@@ -1,0 +1,44 @@
+body {
+    font-family: Garamond, serif;
+    color: #04aa6d;
+    background-color: #000f05;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #000f05;
+    color: #04aa6d;
+    padding: 20px;
+    text-align: center;
+}
+
+button {
+  font-family: Garamond, serif;
+  border: none;
+  padding: 20px;
+  color: #000f05;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-inline: 50%;
+  margin: auto auto;
+  cursor: pointer;
+  background-color: #04AA6D;
+    /* ZmxhZ3t0aGV5J3JlZWF0aW5ndGhlZG9nc30= */
+  }
+
+section {
+  font-family: Garamond, serif;
+  color: #04aa6d;
+  text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
